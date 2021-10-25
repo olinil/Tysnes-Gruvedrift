@@ -48,6 +48,10 @@ a{
     background-color: rgba(rgb(0, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0), 0.9);
 }
 
+.p{
+    color: white;
+}
+
 #background{
     position: fixed;
     background-repeat: no-repeat;
