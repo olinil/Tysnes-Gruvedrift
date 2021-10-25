@@ -3,33 +3,36 @@ body{
     margin: 0;
     z-index: 1;
     align-items: center;
+    overflow: hidden;
 }
 
 .grid{
     display: grid; 
-    grid-gap: 6px;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-gap: 3px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr;
     grid-template-areas:
-    "header header header header header header"
-    "main main main main main main"
-    "footer footer footer footer footer footer";
+    ". title title title header header header ."
+    ". main main main main main main ."
+    ". footer footer footer footer footer footer .";
 }
 
 
 .header{
     grid-area: header;
-    padding: 30px;
-    height: 40px;
-    width: 100%;
     color: white;
     font-family: Arial, Helvetica, sans-serif;
-    align-content: center;
+    text-align: center;
+}
+
+.title{
+    grid-area: title;
+    text-align: center;
 }
 
 h2{
     color: white;
-    font-size: 3em;
+    font-size: 2em;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -78,4 +81,11 @@ a{
 
 .footer{
     grid-area: footer;
+}
+
+.grid div:nth-child(even) {
+    background-color: rgba(128, 128, 128, 0.644);
+}
+.grid div:nth-child(odd) {
+    background-color: rgba(128, 128, 128, 0.644);
 }
