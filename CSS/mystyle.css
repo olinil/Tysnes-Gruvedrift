@@ -4,6 +4,8 @@ body {
   margin: 0;
   text-decoration: none;
   font-family: "Vollkorn", Arial, serif;
+  background-image: url(../Bilder/last\ ned.jfif);
+  background-size: cover;
 }
 
 .grid-index {
@@ -16,7 +18,7 @@ body {
 .grid-faq {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
-  grid-template-rows: 15vh auto;
+  grid-template-rows: 20vh auto;
   grid-template-areas: 
   "header header header header header header header"
    "menu FAQ FAQ FAQ FAQ FAQ 1fr";
@@ -24,13 +26,12 @@ body {
 
 .header {
   padding: 1em;
-  background-color: #dbffd0;
+  background-color: rgba(128, 128, 128, 0.900);
   grid-area: header;
   text-align: center;
   font-size: 2em;
-  transition: 0.7s;
-  color: black;
-  box-shadow: #0d0c1d 0 0 1.5rem;
+  color: white;
+  box-shadow: #0d0c1d 0 0 1rem;
   z-index: 1;
 }
 
@@ -99,8 +100,7 @@ p {
   display: flex;
   flex-direction: column;
   gap: 1rem;
-  background: #FFFFFF;
-  border-top: 3px solid #0e0e6c;
+  background-color: rgba(128, 128, 128, 0.900);
   padding: 2rem;
   text-align: center;
   height: 300px;
@@ -175,6 +175,6 @@ p {
   font-size: 1.5em;
 }
 
-/*Credit yessness.com*/
+/*Credit yessness*/
 
 /*# sourceMappingURL=mystyle.css.map */

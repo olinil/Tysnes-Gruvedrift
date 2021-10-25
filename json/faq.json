@@ -1,80 +1,50 @@
 [
     {
-        "thing": "GDPR",
-        "question": "Hvordan forholder bedriften seg til gjeldene lovverk?",
-        "answer" : "Bedriften har tidligere hatt ett omdømme som ikke har reflektert godt. Dette er veldig uheldig. Etter eierskifte så har vi gått inn i hver eneste instans i bedriften og ryddet opp grundig etter tidligere brudd på lovverk."
+        "thing": "HMS",
+        "question": "Kva gjer de for å forhindre skader eller ubehag på arbeidsplassen?",
+        "answer" : "Arbeidarane våre får nødvendige og egna sikkerhetsutstyr, som blant anna hjelmar slik at det til kvar einaste stund er klart til bruk og i funksjonsdyktig stand. I tillegg har me eit meget godt ventilasjonsanlegg i grevene våre, som blir kvalitets sjekka regelmessigt"
     },
 
     {
         "thing": "HMS",
-        "question": "Hva er HTML (HyperText Markup Language)?",
-        "answer" : "HTML er et formateringsspråk benyttet for å lage hypertekst-dokumenter på World Wide Web. Koder, kalt tagger (engelsk tags), angir funksjonen til en tekst, det vil si om den er en overskrift, et vanlig tekstavsnitt, en tabell, en punktliste eller en lenke til annen tekst. "
+        "question": "Kva tiltakt har de teke for å sikre arbeidarane frå skadar relaterte til utstyr?",
+        "answer" : "Alle ansatte ved Tysnes Gruvedrift har fått sikkerheitsopplering innafor relevant oppgåver og utstyr"
     },
 
     {
         "thing": "HMS",
-        "question": "Hvordan linke CSS til HTML?",
-        "answer" : "Du skriver i head-en din &lt;link rel=&quotstylesheet&quot  href=&quothvor/CSS/filen/ligger&quot&gt;"
+        "question": "Kva har de gjere for å forebygge mot brannskader?",
+        "answer" : "Me har brannslukningsapparat og tilfluktsrom både i gruvene og i administrasjonen"
     },
 
     {
         "thing": "HMS",
-        "question": "Dette er en test jeg vet at det er en test",
-        "answer" : "Jeg trenger hjelp nå"
-    },
-
-    {
-        "thing": "HMS",
-        "question": "Dette er en test jeg vet at det er en test",
-        "answer" : "Jeg trenger hjelp nå"
-    },
-
-    {
-        "thing": "HMS",
-        "question": "Dette er en test jeg vet at det er en test",
-        "answer" : "Jeg trenger hjelp nå"
-    },
-
-    {
-        "thing": "HMS",
-        "question": "Dette er en test jeg vet at det er en test",
-        "answer" : "Jeg trenger hjelp nå"
-    },
-
-    {
-        "thing": "HMS",
-        "question": "Dette er en test jeg vet at det er en test",
-        "answer" : "Jeg trenger hjelp nå"
+        "question": "Kva gjer det får å forebygge mot eksplosjonsfare?",
+        "answer" : "Me utstyrar våre arbeidarar med bombedra kkt"
     },
 
     {
         "thing": "GDPR",
-        "question": "Hva er CSS (Cascading Style Sheets)",
-        "answer" : "CSS, format for stilsett for html-dokumenter på internett, standardisert av W3C. Stilsett er en enkel måte å definere stiler på, det vil si layoutegenskaper som skrifttyper, farger og linjeavstander, slik at alle dokumenter fra et gitt nettsted får samme design."
+        "question": "Korleis forheld bedriften til gjeldane lovverk?",
+        "answer" : "Bedriften oppretthalder alle lovpålagte krav."
     },
 
     {
         "thing": "GDPR",
-        "question": "Dette er en test jeg vet at det er en test",
-        "answer" : "Jeg trenger hjelp nå"
+        "question": "Korleis lagrar de persondata?",
+        "answer" : "Alt av persondata blir sendt kryptert til serverane våre tryggt stasjonert i Noreg."
     },
 
     {
         "thing": "GDPR",
-        "question": "Dette er en test jeg vet at det er en test",
-        "answer" : "Jeg trenger hjelp nå"
+        "question": "Kvifor treng gruvedrift persondata?",
+        "answer" : "Me gjer det ;)"
     },
 
     {
         "thing": "GDPR",
-        "question": "Dette er en test jeg vet at det er en test",
-        "answer" : "Jeg trenger hjelp nå"
-    },
-
-    {
-        "thing": "GDPR",
-        "question": "Dette er en test jeg vet at det er en test",
-        "answer" : "Jeg trenger hjelp nå"
+        "question": "Kva gjer de med personinformasjonen?",
+        "answer" : "Personsinformasjonen brukes i henhold til lønnsprosessen, og i tilfelle skade på arbeidsplassen >;D"
     },
 
     {
