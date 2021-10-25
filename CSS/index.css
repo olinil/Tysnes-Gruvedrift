@@ -52,7 +52,6 @@ a{
 }
 
 #background{
-    background-image: url(../Bilder/gruvedrift.png);
     position: fixed;
     background-repeat: no-repeat;
     width: 100%;
